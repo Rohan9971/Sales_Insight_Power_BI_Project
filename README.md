@@ -120,21 +120,31 @@ transactions.order_date=date.date where date.year=2020 and transactions.market_c
 
 **Key Insight**
 
-![App Screenshot](https://github.com/Rohan9971/Sales_Insight_Power_BI_Project/blob/main/ScreenShots/keyinsight_I.gif?raw=true)
+
+![keyinsight_I](https://user-images.githubusercontent.com/112953571/205956523-d2c73fbd-c487-4fcd-962c-1ae2ebf6b100.gif)
 
 
-![App Screenshot](https://github.com/Rohan9971/Sales_Insight_Power_BI_Project/blob/main/ScreenShots/keyinsight_II.gif?raw=true)
+![keyinsight_II](https://user-images.githubusercontent.com/112953571/205956559-3998f3e1-19e0-43dc-9884-e2cbf1355005.gif)
 
 
-![App Screenshot](https://github.com/Rohan9971/Sales_Insight_Power_BI_Project/blob/main/ScreenShots/keyinsight_III.gif?raw=true)
+![keyinsight_III](https://user-images.githubusercontent.com/112953571/205956632-507ad198-4436-4496-9c9c-a7f88836caec.gif)
+
 
 **Profit Analysis**
 
-![App Screenshot](https://github.com/Rohan9971/Sales_Insight_Power_BI_Project/blob/main/ScreenShots/profitAnalysis_I.gif?raw=true)
+
+![profitAnalysis_I](https://user-images.githubusercontent.com/112953571/205956790-16f7cdd0-ab9b-48d6-b7bf-998e81134254.gif)
 
 
-![App Screenshot](https://github.com/Rohan9971/Sales_Insight_Power_BI_Project/blob/main/ScreenShots/ProfitAnalysis_II.gif?raw=true)
+![ProfitAnalysis_II](https://user-images.githubusercontent.com/112953571/205956874-c3d561a8-511e-49d5-909c-ad83068e69ec.gif)
+
+
+
 
 **Profit Insight**
 
-![App Screenshot](https://github.com/Rohan9971/Sales_Insight_Power_BI_Project/blob/main/ScreenShots/profitInsight.gif?raw=true)
+
+![profitInsight](https://user-images.githubusercontent.com/112953571/205957221-9a519aff-f800-4989-9d7e-6d5899932cc2.gif)
+
+
+
